@@ -52,22 +52,6 @@ The database reflects the relationships between customers, employees, accounts, 
 
 ---
 
-# 🗄 Database Structure
-
-The database consists of **five relational tables**.
-
-| Table | Description |
-|--------|-------------|
-| **Bankers** | Stores employee information and reporting hierarchy |
-| **Clients** | Stores customer information |
-| **Accounts** | Stores customer bank accounts, balances, and account details |
-| **Deposits** | Stores customer deposit information |
-| **Loans** | Stores customer loans and mortgage information |
-
-Each table was designed according to relational database best practices.
-
----
-
 # 🔗 Entity Relationships
 
 The database contains several One-to-Many relationships.
