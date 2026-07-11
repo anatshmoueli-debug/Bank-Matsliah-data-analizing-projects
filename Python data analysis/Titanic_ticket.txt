@@ -1,0 +1,13 @@
+
+**************** TITANIC BOARDING TICKET *******************
+
+Ticket Number: 153082
+Name: Michael Shmueli
+Age: 59.0
+Gender: male
+Fare: 200.0
+Class: 1
+
+Welcome aboard Michael Shmueli, your survival rate is 37%!
+
+************************************************************
